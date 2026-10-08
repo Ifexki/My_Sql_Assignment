@@ -1,0 +1,76 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="0gJahFajO317VAVbXVAm">
+    <mxGraphModel dx="2066" dy="691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Fo8Afygj896NTJU_3enO-23" edge="1" parent="1" source="Fo8Afygj896NTJU_3enO-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Fo8Afygj896NTJU_3enO-22" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fo8Afygj896NTJU_3enO-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="BRONZE&amp;nbsp; &amp;nbsp; PHASE" vertex="1">
+          <mxGeometry height="60" width="160" x="50" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="Fo8Afygj896NTJU_3enO-9" edge="1" parent="1" source="Fo8Afygj896NTJU_3enO-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Fo8Afygj896NTJU_3enO-1" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fo8Afygj896NTJU_3enO-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="CSV FILES" vertex="1">
+          <mxGeometry height="60" width="160" x="50" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Fo8Afygj896NTJU_3enO-14" parent="1" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" value="                                          DATA STAYS AS IS" vertex="1">
+          <mxGeometry height="20" width="20" x="40" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="Fo8Afygj896NTJU_3enO-18" parent="1" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" value="                                                                                   STAGING AREA IS CREATED IN THIS PHASE" vertex="1">
+          <mxGeometry height="20" width="20" x="40" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="Fo8Afygj896NTJU_3enO-20" parent="1" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" value="                                                   NO TRANSFORMATIONS" vertex="1">
+          <mxGeometry height="20" width="20" x="40" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="Fo8Afygj896NTJU_3enO-30" edge="1" parent="1" source="Fo8Afygj896NTJU_3enO-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Fo8Afygj896NTJU_3enO-29" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fo8Afygj896NTJU_3enO-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="SILVER PHASE" vertex="1">
+          <mxGeometry height="60" width="120" x="350" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="Fo8Afygj896NTJU_3enO-24" parent="1" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" value="                                                                                 TRANSFORMATION AND STANDARDIZATION" vertex="1">
+          <mxGeometry height="20" width="20" x="340" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="Fo8Afygj896NTJU_3enO-25" parent="1" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" value="                                                       DATA QUALITY RULES          " vertex="1">
+          <mxGeometry height="20" width="20" x="340" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="Fo8Afygj896NTJU_3enO-26" parent="1" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" value="                                                                                                  TRANSFORMED DATA STORED IN FORM OF VIEWS" vertex="1">
+          <mxGeometry height="20" width="20" x="340" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="Fo8Afygj896NTJU_3enO-27" parent="1" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" value="                                                                         DATA STORED IN EXPRESS SERVER" vertex="1">
+          <mxGeometry height="20" width="20" x="40" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="Fo8Afygj896NTJU_3enO-29" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="GOLD PHASE" vertex="1">
+          <mxGeometry height="60" width="120" x="650" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="Fo8Afygj896NTJU_3enO-31" parent="1" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" value="                               TARGET PHASE" vertex="1">
+          <mxGeometry height="20" width="20" x="650" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="Fo8Afygj896NTJU_3enO-32" parent="1" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" value="                                                                                          BUSINESS LOGIC/TRANSFORMED INTO MODELS" vertex="1">
+          <mxGeometry height="20" width="20" x="650" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="Fo8Afygj896NTJU_3enO-33" parent="1" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" value="                                                                                                  DATA WAREHOUSE STORED IN DEVELOPER SERVER" vertex="1">
+          <mxGeometry height="20" width="20" x="650" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="Fo8Afygj896NTJU_3enO-34" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="SERVER LINK" vertex="1">
+          <mxGeometry height="30" width="60" x="520" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="Fo8Afygj896NTJU_3enO-35" parent="1" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" value="                                                                                        VIEWS ARE CONVERTED TO PHYSICAL TABLES" vertex="1">
+          <mxGeometry height="20" width="20" x="650" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="Fo8Afygj896NTJU_3enO-37" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="INGESTION PHASE" vertex="1">
+          <mxGeometry height="30" width="60" x="140" y="195" as="geometry" />
+        </mxCell>
+        <mxCell id="Fo8Afygj896NTJU_3enO-38" parent="1" style="whiteSpace=wrap;html=1;" value="AUTOMATION USING SSIS, OR ANY AUTOMATION TOOL LIKE AIRFLOW" vertex="1">
+          <mxGeometry height="70" width="780" x="40" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="Fo8Afygj896NTJU_3enO-39" parent="1" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" value="                                                                         BULK LOAD. PREVENT DUPLICATION" vertex="1">
+          <mxGeometry height="20" width="20" x="40" y="420" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
